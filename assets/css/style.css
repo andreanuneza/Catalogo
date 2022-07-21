@@ -1,0 +1,32 @@
+body{
+    color:"#212529";
+    font-family: 'Roboto', sans-serif;
+    font-weight:300;
+}
+
+h5{
+    font-size: 40px;
+}
+
+tienda, precio{
+    font-size: 16px;
+}
+
+precio_verde{
+    font-size: 20px;
+    font-weight:500;
+}
+
+footer{
+    font-size: 16px;
+    text-align: center;
+  }
+
+h3{
+    text-align: center;
+    font-weight:500;
+  }
+
+formulario{
+    color:white;
+  }
